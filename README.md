@@ -32,4 +32,3 @@ and enrolment-to-authentication ratios across India.
 
 ## File Structure
 aadhaar_sql_project.sql   # All 10 queries with comments
-<img width="468" height="464" alt="image" src="https://github.com/user-attachments/assets/8eac6cf8-18f3-46c6-a096-4191e99e743c" />
