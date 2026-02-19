@@ -1,4 +1,4 @@
-# aadhaar-sql-analysis
+
 # Aadhaar Biometric Data SQL Analysis
 
 ## Project Overview
